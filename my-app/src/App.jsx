@@ -10,11 +10,11 @@ function App() {
 
   return (
     <>
-    {/* <Todo/> */}
+    <Todo/>
     {/* <Theme/>
    <Couter/> */}
- {/* <Theme/> */}
- <Showquotes/>
+
+ {/* <Showquotes/> */}
     </>
   )
 }
